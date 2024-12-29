@@ -1,7 +1,7 @@
-# Secure User Authentication System with Node.js
+# Secure User Authentication Login/SignUp page with Node.js
 
 ## Overview
-This project is a secure and modular user authentication system built using **Node.js**, **Express**, and **bcrypt** for password hashing. It provides a clean and robust solution for implementing login and signup functionality with a focus on data security. The project utilizes **EJS** as a templating engine and **MongoDB** for database management.
+This project is a secure and modular user authentication Login/SignUp page built using **Node.js**, **Express**, and **bcrypt** for password hashing. It provides a clean and robust solution for implementing login and signup functionality with a focus on data security. The project utilizes **EJS** as a templating engine and **MongoDB** for database management.
 
 ## Features
 - **User Registration**: Allows users to sign up with their details, including a hashed password for secure storage.
@@ -24,18 +24,7 @@ This project is a secure and modular user authentication system built using **No
 3. **Home Page**: After successful login, users are redirected to a home page.
 4. **Error Handling**: Displays messages for invalid logins or existing accounts.
 
-## Future Enhancements
-- Add password reset functionality.
-- Implement user roles (e.g., admin, user).
-- Integrate JWT for token-based authentication.
-- Enhance UI for better user experience.
-
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-For any inquiries, contact [your-email@example.com](mailto:your-email@example.com).
 
